@@ -1,0 +1,35 @@
+OUTPUT FOR WAND-----
+time=0 ns,a=0,b=0,c=0,d=0,f=0
+time=2 ns,a=0,b=0,c=0,d=1,f=0
+time=4 ns,a=0,b=0,c=1,d=0,f=0
+time=6 ns,a=0,b=0,c=1,d=1,f=0
+time=8 ns,a=0,b=1,c=0,d=0,f=0
+time=10 ns,a=0,b=1,c=0,d=1,f=0
+time=12 ns,a=0,b=1,c=1,d=0,f=0
+time=14 ns,a=0,b=1,c=1,d=1,f=0
+time=16 ns,a=1,b=0,c=0,d=1,f=0
+time=18 ns,a=1,b=0,c=0,d=0,f=0
+time=20 ns,a=1,b=0,c=1,d=1,f=0
+time=22 ns,a=1,b=0,c=1,d=0,f=0
+time=24 ns,a=1,b=1,c=0,d=0,f=0
+time=26 ns,a=1,b=1,c=0,d=1,f=1
+time=28 ns,a=1,b=1,c=1,d=0,f=1
+time=30 ns,a=1,b=1,c=1,d=1,f=1
+
+OUTPUT FOR WOR-----------
+time=0 ns,a=0,b=0,c=0,d=0,f=0
+time=2 ns,a=0,b=0,c=0,d=1,f=1
+time=4 ns,a=0,b=0,c=1,d=0,f=1
+time=6 ns,a=0,b=0,c=1,d=1,f=1
+time=8 ns,a=0,b=1,c=0,d=0,f=0
+time=10 ns,a=0,b=1,c=0,d=1,f=1
+time=12 ns,a=0,b=1,c=1,d=0,f=1
+time=14 ns,a=0,b=1,c=1,d=1,f=1
+time=16 ns,a=1,b=0,c=0,d=1,f=1
+time=18 ns,a=1,b=0,c=0,d=0,f=0
+time=20 ns,a=1,b=0,c=1,d=1,f=1
+time=22 ns,a=1,b=0,c=1,d=0,f=1
+time=24 ns,a=1,b=1,c=0,d=0,f=1
+time=26 ns,a=1,b=1,c=0,d=1,f=1
+time=28 ns,a=1,b=1,c=1,d=0,f=1
+time=30 ns,a=1,b=1,c=1,d=1,f=1
