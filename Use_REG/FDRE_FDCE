@@ -1,0 +1,17 @@
+Primitive,Full Name,Reset / Clear Type,Reset Trigger,Clock Enable?,Active Level
+FDRE WILL GENERATE WHEN THERE IS SYNCHRONOUS RESET
+FDRE---> "Flip-Flop, D-type, Synchronous Reset, Clock Enable",Synchronous,On Clock Edge,Yes,High
+
+FDCE WILL GENERATE WHEN THERE IS ASYNCHRONOUS RESET
+FDCE---> "Flip-Flop, D-type, Asynchronous Clear, Clock Enable",Asynchronous,Immediately,Yes,High
+
+
+      FDRE                                 FDCE
+  +------------+                       +------------+
+  |            |                       |            |
+--| D        Q |--               ----->| D        Q |--
+--| C          |                       | C          |
+--| CE         |                       | CE         |
+--| R          |                       | CLR        |
+  |            |                       |            |
+  +------------+                       +------------+
