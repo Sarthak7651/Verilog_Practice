@@ -1,0 +1,17 @@
+VERILOG PROVIDE A SET OF PREDEFINE LOGIC GATE IN VERILOG.
+CAN BE INSTANTIATED WITHIN A MODULE TO CREAT A STRUCTURED DESIGN.THE GATE RESPONED TO LOGIC VALUES(0,1,X,Z) IN A LOGICAL WAY.
+
+LIST OF PRIMITIVES--------->
+
+and G (out,in1,in2);
+nand G (out,in1,in2);
+or G (out,in1,in2);
+nor G (out,in1,in2);
+xor G (out,in1,in2);
+xnor G (out,in1,in2);
+not G (out,in);
+buf G (out,in);
+bufif1 G (out,in,ctrl);
+bufif0 G (out,in,ctrl);
+notif0 G (out,in,ctrl);
+notif1 G (out,in,ctrl);
